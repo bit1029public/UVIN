@@ -1,0 +1,14 @@
+{
+    "task_name": "deterministic_pmst",
+    "run_name": "default",
+    "imsize": 32,
+    "batch_size": 12,
+    "learning_rate": 0.001,
+    "max_training_epoch": 70,
+    "A_size": 10,
+    "S_size": 1024,
+    "C_size": 8,
+    "P_size": 9,
+    "VI_k": 50,
+    "final_layer": "linear"
+}

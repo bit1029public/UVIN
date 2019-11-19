@@ -1,0 +1,21 @@
+{
+    "task_name": "stochastic_pmst",
+    "run_name": "default",
+    "imsize": 34,
+    "A_size": 6,
+    "S_size": 1156,
+    "C_size": 8,
+    "P_size": 9,
+    "VI_k": 50,
+    "final_layer": "null",
+    "batch_size": 32,
+    "buffer_size": 100000,
+    "learning_rate": 0.0001,
+    "epsilon_max": 1.0,
+    "epsilon_min": 0.02,
+    "epsilon_decrease_step": 200000,
+    "max_training_step": 2000000,
+    "learn_step": 4,
+    "init_memory_step": 1000,
+    "update_ds_step": 50
+}
