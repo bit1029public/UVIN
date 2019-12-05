@@ -1,5 +1,8 @@
 # Universal Value Iteration Networks
 
+## video
+https://youtu.be/VtHzlrRVSS0
+
 ## requirements
 * python 3.6.7
 * pytorch 1.1.0
