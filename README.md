@@ -1,5 +1,8 @@
 # Universal Value Iteration Networks
 
+## paper
+https://aaai.org/Papers/AAAI/2020GB/AAAI-ZhangL.10191.pdf
+
 ## video
 https://youtu.be/VtHzlrRVSS0
 
